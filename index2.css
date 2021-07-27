@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Archivo+Black&family=Lato:wght@900&family=Montserrat:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+body{
+    background-color: rgb(173, 164, 164);
+}
+
+h2{
+    font-family: 'Motserrat' normal;
+    font-weight: 900;
+    font-size: 150px;
+    color: gold;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 20px;
+    letter-spacing: 0px;
+    position: relative;
+    top: 100px;
+}
+h4{
+    font-size: 70px;
+    font-family:'Poppins' sans-serif;
+    font-weight: 400;
+    letter-spacing: 8px;
+    position: relative;
+    left:310px;
+    top: 6px;
+    color: #65717d;
+}
+hr{
+    width: 230px;
+    position: relative;
+    top: -100px;
+    left: -110px;
+}
+.doira1{
+    width: 50px;
+    height: 50px;
+    border: 0px solid #65717d ;
+    border-radius: 50%;
+    background-color: rgb(255, 219, 16);
+}
+.doira2{
+    width: 40px;
+    height: 40px;
+    border: 0px solid #65717d ;
+    border-radius: 50%;
+    background-color: rgb(255, 219, 16);
+    position: relative;
+    top: -46px;
+    left: 50px;
+    margin-left: 20px;
+}
+.doira3{
+    width: 40px;
+    height: 40px;
+    border: 1px solid #65717d ;
+    border-radius: 50%;
+    background-color: #65717d;
+    position: relative;
+    top: -87px;
+    left: -50px;
+    margin-left: -10px;
+}
+.doira4{
+    width: 35px;
+    height: 35px;
+    border: 1px solid #65717d ;
+    border-radius: 50%;
+    background-color: #65717d;
+    position: relative;
+    top: -170px;
+    left: -30px;
+}
+.doira5{
+    width: 35px;
+    height: 35px;
+    border: 1px solid #65717d ;
+    border-radius: 50%;
+    background-color: #65717d;
+    position: relative;
+    top: -207px;
+    left: 47px;
+}
+.doira6{
+    width: 38px;
+    height: 38px;
+    border: 1px solid #65717d ;
+    border-radius: 50%;
+    background-color: #65717d;
+    position: relative;
+    top: -275px;
+    left: 7px;
+}
+.doira7{
+    width: 35px;
+    height: 35px;
+    border: 1px solid #65717d ;
+    border-radius: 50%;
+    background-color: #65717d;
+    position: relative;
+    top: -200px;
+    left: -25px;
+}
+.doira8{
+    width: 35px;
+    height: 35px;
+    border: 1px solid #65717d ;
+    border-radius: 50%;
+    background-color: #65717d;
+    position: relative;
+    top: -239px;
+    left: 45px;
+}
+.doira9{
+    width: 35px;
+    height: 35px;
+    border: 1px solid #65717d ;
+    border-radius: 50%;
+    background-color: #65717d;
+    position: relative;
+    top: -242px;
+    left: 12px;
+}
+
+.cicle{
+    position: relative;
+    left: 200px;
+    bottom: 220px;
+
+}
